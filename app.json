@@ -1,0 +1,9 @@
+{
+  "name": "amplified_todo",
+  "displayName": "amplified_todo",
+  "extra": {
+    "eas": {
+      "projectId": "2f6907b0-1127-4a48-a4ca-2015fb8356ba"
+    }
+  }
+}
